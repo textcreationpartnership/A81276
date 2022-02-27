@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of John Burrowes draper and George his son, Joshua Morris gent. Elizabeth his wife, Christopher Potter, gent. and Phillis his wife, Sarah Burrowes and Martha Burrowes, spinsters; which said John, Elizabeth, and Phillis, Sarah, and Martha, were brother and sisters, and legatees of George Burrowes of London merchant, deceas'd</title>
+            <author>Burrowes, John, fl. 1693-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1716</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81276</idno>
+            <idno type="STC">Wing C926A</idno>
+            <idno type="STC">ESTC T221238</idno>
+            <idno type="EEBO-CITATION">99896307</idno>
+            <idno type="PROQUEST">99896307</idno>
+            <idno type="VID">153847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2384:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of John Burrowes draper and George his son, Joshua Morris gent. Elizabeth his wife, Christopher Potter, gent. and Phillis his wife, Sarah Burrowes and Martha Burrowes, spinsters; which said John, Elizabeth, and Phillis, Sarah, and Martha, were brother and sisters, and legatees of George Burrowes of London merchant, deceas'd</title>
+                  <author>Burrowes, John, fl. 1693-1715.</author>
+               </titleStmt>
+               <extent>[2]p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London,</pubPlace>
+                  <date>1716]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Docket title: 'The case of John Burrowes, &amp;c.'.</note>
+                  <note>On the debt of Sir Alexander Rigby to John Burrowes et al.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153847:1"/>
+            <head>The <hi>CASE</hi> of <hi>John Burrowes</hi> Draper and <hi>George</hi> his Son, <hi>Joſhua Morris</hi> Gent. <hi>Elizabeth</hi> his Wife, <hi>Chriſtopher Pot<g ref="char:EOLhyphen"/>ter,</hi> Gent. and <hi>Phillis</hi> his Wife, <hi>Sarah Burrowes</hi> and <hi>Mar<g ref="char:EOLhyphen"/>tha Burrowes,</hi> Spinſters; which ſaid <hi>John, Elizabeth,</hi> and <hi>Phillis, Sarah,</hi> and <hi>Martha,</hi> were Brother and Siſters, and Le<g ref="char:EOLhyphen"/>gatees of <hi>George Burrowes</hi> of <hi>London</hi> Merchant, de<g ref="char:EOLhyphen"/>ceas'd.</head>
+            <p>THAT Sir <hi>Alexander Rigby</hi> of <hi>London</hi> Knight, now a Priſoner in the <hi>Fleet,</hi> ſtands indebted to <hi>John Burrowes,</hi> &amp;c. by Bond under his Hand and Seal, dated the 24th of <hi>October</hi> 1698, of the penalty of 2100<hi>l</hi> conditioned for the Payment of 1057 <hi>l.</hi> 4 <hi>s.</hi> on the firſt of <hi>November,</hi> 1699.</p>
+            <p>That the ſaid Sir <hi>Allexander</hi> is charged in Execution in the ſaid Priſon, by Virtue of a Judgment obtained on the ſaid Bond, but hath not paid one Penny Principal Intereſt or Charge contracted or due on the ſaid Bond, or ever offered any Compoſition, and hath always declined giving any Ac<g ref="char:EOLhyphen"/>count of his Eſtate.</p>
+            <p>That the ſaid <hi>John Burrowes,</hi> &amp;c. being informed Sir <hi>Alexander</hi> is procu<g ref="char:EOLhyphen"/>ring an Act of Parliament to be releaſed of his Confinement, humbly preſume to lay before this Honourable Houſe the State of their Caſe, <hi>viz.</hi>
+            </p>
+            <p>That <hi>George Burrowes</hi> of <hi>London</hi> Merchant, Dyed in the Year 1693, by his Will did leave his Effects (after his Debts, Funeral Expences, and ſome ſmall Legacies paid) to be divided among <hi>John Burrowes, &amp;c.</hi> in ſuch man<g ref="char:EOLhyphen"/>ner and Proportions as in his ſaid Will are mentiond, and appointed his Father <hi>George Burrowes</hi> ſole Executor of his ſaid Will, who duly proved the ſame.</p>
+            <p>That the greateſt Part of the Teſtators Effects lying in the Hands of his Partner in <hi>Italy,</hi> the ſaid Executors did impower the ſaid Sir <hi>Alexander</hi> to demand and receive the ſame on the Behalf of the ſaid Executor, in order to be divided amongſt the ſaid <hi>John Burrowes, &amp;c.</hi> according to the Pur<g ref="char:EOLhyphen"/>port of the ſaid Will.</p>
+            <p>That the ſaid Sir <hi>Alexander</hi> accordingly received the ſaid Money for which the ſaid Bond was given as aforeſaid to the ſaid Executor, being the Ballance due after all he demanded for his Trouble and Expences were de<g ref="char:EOLhyphen"/>ducted.</p>
+            <p>That the ſaid Debt was not contracted in Trade with the ſaid Sir <hi>A<g ref="char:EOLhyphen"/>lexander,</hi> whereby any Profit might have accrued to the ſaid <hi>John Burrowes, &amp;c.</hi> but all Money paid into his Hands.</p>
+            <p>That the ſaid Sir <hi>Alexander</hi> about Seventeen Years ago, and ſoon after he entred into the ſaid Bond, failed and hath had all this Time to pay ſuch of his Creditors as he pleaſed, (ſome whereof he owns to have paid) and to ſpend, diſpoſe of, or intricate his Eſtate at his Pleaſure, and now pre<g ref="char:EOLhyphen"/>tends
+<pb facs="tcp:153847:2"/> to ſurrender up his Eſtate to his Creditors, without any Aſſurance they ſhall have a Peny in the Pound.</p>
+            <p>That the Principal and Intereſt due on the ſaid Bond, amounts to a large Sum, and is a great part of the Subſtance of the ſaid <hi>John Burrowes, &amp;c.</hi> That the ſaid <hi>John Burrowes, &amp;c.</hi> cannot learn it was ever practicable for a Debtor under the Circumſtances aforeſaid, to be diſcharged paying his juſt Debts ſo large, by the Indulgence and Authority of Parliament.</p>
+            <p>That the ſaid <hi>John Burrowes</hi> and <hi>Chriſtopher Potter</hi> have each a Nu<g ref="char:EOLhyphen"/>merous Family of Children now Living.</p>
+            <p>The ſaid <hi>John Burrowes, &amp;c.</hi> the Premiſes conſidered, moſt humbly crave their Caſe may be taken into Conſideration, and that they may not be deprived of their ſaid juſt Debt by Authority of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+         </div>
+         <div type="part">
+            <p>THE CASE OF <hi>JOHN B<g ref="char:V">Ʋ</g>RROWES,</hi> &amp;c.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
